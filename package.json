@@ -1,0 +1,19 @@
+{
+  "name": "wiki-server",
+  "version": "0.0.0",
+  "description": "A wiki server for experimentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/elliotf/node-wiki-server.git"
+  },
+  "author": "Elliot Foster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elliotf/node-wiki-server/issues"
+  },
+  "homepage": "https://github.com/elliotf/node-wiki-server"
+}
