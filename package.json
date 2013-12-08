@@ -1,6 +1,6 @@
 {
   "name": "wiki-server",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A wiki server for experimentation",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/elliotf/node-wiki-server/issues"
   },
-  "homepage": "https://github.com/elliotf/node-wiki-server"
+  "homepage": "https://github.com/elliotf/node-wiki-server",
+  "devDependencies": {
+    "sinon": "~1",
+    "mocha": "~1",
+    "mocha-sinon": "~1",
+    "chai": "~1",
+    "sinon-chai": "~2"
+  }
 }
